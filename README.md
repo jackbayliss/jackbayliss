@@ -5,7 +5,6 @@ I'm a full time software developer who is passionate about making open-source an
  
  ![trophy](https://github-profile-trophy.vercel.app/?username=jackbayliss)
  
-## Find me around the web 🌎:<a href="https://github.com/sponsors/jackbayliss"><img align="left" width="150" height="150" padding="25" src="https://github.com/jackbayliss/jackbayliss/blob/master/octocat.png?raw=true"></a>
+## Find me around the web 🌎:<a href="https://github.com/sponsors/jackbayliss"><img align="left" width="300" height="300" padding="25" src="https://github.com/jackbayliss/jackbayliss/blob/master/octocat.png?raw=true"></a>
 -    <a href="https://jackbayliss.com">jackbayliss.com</a>
 -    [Email me](mailto:jack@jackbayliss.com?subject=[GitHub])
-
