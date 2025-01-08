@@ -1,7 +1,7 @@
 # Hi, I'm Jack 🤙🏻👨🏻‍🦰💻
 I'm a full time software developer who is passionate about making open-source and accessible packages in my free time.  Some technologies I enjoy working with include PHP, Python,  React Native and Angular.
 
-![Jack's github stats](https://github-readme-stats.vercel.app/api?username=jackbayliss&show_icons=true&theme=dracula)
+![Jack's github stats](https://ghr-jackbayliss.vercel.app/api?username=jackbayliss&show_icons=true&count_private=true&theme=dracula&hide_border=true&show=reviews,prs_merged)
  
  ![trophy](https://github-profile-trophy.vercel.app/?username=jackbayliss)
  
