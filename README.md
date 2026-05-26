@@ -1,3 +1,5 @@
+[![Laravel Contributor](https://laravel-badge.peterfox.me/contributor/jackbayliss)](https://laravel-badge.peterfox.me/contributor/jackbayliss/contributions)
+
 # Hi, I'm Jack 🤙🏻👨🏻‍🦰💻
 I'm a full time software developer who is passionate about making open-source and accessible packages in my free time.  Some technologies I enjoy working with include PHP, Python,  React Native and Angular.
 
