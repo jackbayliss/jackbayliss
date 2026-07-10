@@ -2,6 +2,7 @@
 
 [![Laravel Contributor](https://badge.laravel.cloud/contributor/jackbayliss)](https://badge.laravel.cloud/contributor/jackbayliss/contributions)
 ![Profile Views](https://komarev.com/ghpvc/?username=jackbayliss)
+
 I'm a full time software developer who is passionate about open-source. I mainly work in PHP, and Laravel, but have used various other languages and frameworks such as... Python, React and Angular... NextJS, React Native, Ionic and Hugo.
  
  ![trophy](https://stable-github-profile-trophy.vercel.app/?username=jackbayliss)
